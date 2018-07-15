@@ -19,3 +19,5 @@ Another method:
 feature pyramid networks for object detection github
 
 R-CNN ???
+
+YOLO is state of the art method for object detection
