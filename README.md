@@ -14,3 +14,6 @@ do a simple cnn classification and alter it somehow that it can produce the bund
 
 Another classification method:
 HOG + Linear SVM framework: https://www.pyimagesearch.com/2014/11/10/histogram-oriented-gradients-object-detection/
+
+Another method:
+feature pyramid networks for object detection github
