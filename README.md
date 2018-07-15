@@ -8,3 +8,6 @@
 2. train a Convolutinal Neural Netwok on this newly created dataset.
 3. Finetune the netwoek parameters.
 4. Check the result.
+
+Classification Task:
+do a simple cnn classification and alter it somehow that it can produce the bundaries.
