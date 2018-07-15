@@ -17,3 +17,5 @@ HOG + Linear SVM framework: https://www.pyimagesearch.com/2014/11/10/histogram-o
 
 Another method:
 feature pyramid networks for object detection github
+
+R-CNN ???
